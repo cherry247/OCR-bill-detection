@@ -1,1 +1,2 @@
 # OCR-bill-detection
+OCR bill detection is a python program which can detect the type of your household bills. for example if you have samples of electricity bills, movie bills or grocery bills, this python program which detect the category of the bill and store the data in the bill into a file . Further Data visualization is done to monitor your montly expense so that you can save wisely and track your spending. 
